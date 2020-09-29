@@ -1,7 +1,6 @@
 
 // O(n2)
 export function naiveWay(intervals: number[][]): number {
-
     const res = [];
 
     for (const item of intervals) {
