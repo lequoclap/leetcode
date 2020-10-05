@@ -10,3 +10,6 @@
 - [graph traversal](./graph-traversal/note.md)
 - [union find](./union-find/note.md)
 - [knap sacks](.knap-sacks/note.md)
+- [csp]
+    - N-Queens II
+    - Verbal Arithmetic Puzzle
