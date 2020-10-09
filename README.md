@@ -25,7 +25,7 @@
     - [406. Queue Reconstruction by Height]()	M	
     - [1433. Check If a String Can Break Another String]()	M	
     - [1338. Reduce Array Size to The Half]() M
-    - [402. Remove K Digits] M
+    - [402. Remove K Digits]() M
 
     - [45. Jump Game II]() H
     - [502. IPO] H
