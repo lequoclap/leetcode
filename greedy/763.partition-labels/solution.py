@@ -9,7 +9,7 @@ class Solution:
                 rindex = S.rindex(target) + 1 
                 if  rindex > size:
                     size = rindex
-                    active_list.update(list(S[:size]))
+                    active_list.update(list(S[:size])) #update all character between the first target and last target to active list
             res.append(size)
             S = S[size:]
         return res
